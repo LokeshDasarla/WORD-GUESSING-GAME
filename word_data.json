@@ -1,0 +1,340 @@
+{
+  "words": [
+    {
+      "word": "apple",
+      "category": "fruit",
+      "hints": ["Think of iPhones and MacBooks", "Inspired Newton's theory", "Keeps the doctor away", "Comes in red/green/yellow"],
+      "difficulty": 1
+    },
+    {
+      "word": "banana",
+      "category": "fruit",
+      "hints": ["Yellow when ripe", "Monkeys love it", "Rich in potassium", "Grows in bunches"],
+      "difficulty": 1
+    },
+    {
+      "word": "elephant",
+      "category": "animal",
+      "hints": ["Largest land animal", "Has a trunk", "Big ears", "Gray skin"],
+      "difficulty": 2
+    },
+    {
+      "word": "giraffe",
+      "category": "animal",
+      "hints": ["Long neck", "Tallest animal", "Spotted pattern", "Herbivore"],
+      "difficulty": 2
+    },
+    {
+      "word": "computer",
+      "category": "technology",
+      "hints": ["Has a CPU", "Runs programs", "Used for coding", "Stores data"],
+      "difficulty": 1
+    },
+    {
+      "word": "smartphone",
+      "category": "technology",
+      "hints": ["Touchscreen", "Pocket-sized", "Runs apps", "Has a camera"],
+      "difficulty": 1
+    },
+    {
+      "word": "bicycle",
+      "category": "transport",
+      "hints": ["Two wheels", "Pedal-powered", "Eco-friendly", "Has handlebars"],
+      "difficulty": 1
+    },
+    {
+      "word": "airplane",
+      "category": "transport",
+      "hints": ["Flies in sky", "Has wings", "Carries passengers", "Jet engines"],
+      "difficulty": 2
+    },
+    {
+      "word": "library",
+      "category": "place",
+      "hints": ["Has books", "Quiet space", "Study area", "Librarians work here"],
+      "difficulty": 1
+    },
+    {
+      "word": "hospital",
+      "category": "place",
+      "hints": ["Doctors work here", "Sick people go here", "Has emergency room", "White coats"],
+      "difficulty": 1
+    },
+    {
+      "word": "guitar",
+      "category": "music",
+      "hints": ["Six strings", "Strummed instrument", "Can be electric", "Used in rock music"],
+      "difficulty": 2
+    },
+    {
+      "word": "piano",
+      "category": "music",
+      "hints": ["88 keys", "Grand or upright", "Played with fingers", "Classical instrument"],
+      "difficulty": 2
+    },
+    {
+      "word": "volcano",
+      "category": "nature",
+      "hints": ["Erupts lava", "Mountain shape", "Smokes when active", "Dangerous when erupting"],
+      "difficulty": 3
+    },
+    {
+      "word": "waterfall",
+      "category": "nature",
+      "hints": ["Falling water", "Found in mountains", "Makes mist", "Tourist attraction"],
+      "difficulty": 2
+    },
+    {
+      "word": "doctor",
+      "category": "profession",
+      "hints": ["Helps sick people", "Wears white coat", "Works in hospital", "Can prescribe medicine"],
+      "difficulty": 1
+    },
+    {
+      "word": "teacher",
+      "category": "profession",
+      "hints": ["Works in school", "Educates students", "Uses chalkboard", "Gives homework"],
+      "difficulty": 1
+    },
+    {
+      "word": "pizza",
+      "category": "food",
+      "hints": ["Italian origin", "Round shape", "Has toppings", "Delivered hot"],
+      "difficulty": 1
+    },
+    {
+      "word": "hamburger",
+      "category": "food",
+      "hints": ["Fast food", "Has bun", "Beef patty", "Comes with fries"],
+      "difficulty": 1
+    },
+    {
+      "word": "basketball",
+      "category": "sport",
+      "hints": ["Orange ball", "Played on court", "NBA players", "Score in hoop"],
+      "difficulty": 2
+    },
+    {
+      "word": "soccer",
+      "category": "sport",
+      "hints": ["Called football outside US", "11 players", "World Cup", "Kick ball"],
+      "difficulty": 2
+    },
+    {
+      "word": "dolphin",
+      "category": "animal",
+      "hints": ["Marine mammal", "Very intelligent", "Swims in pods", "Makes clicks"],
+      "difficulty": 2
+    },
+    {
+      "word": "tiger",
+      "category": "animal",
+      "hints": ["Striped fur", "Big cat", "Endangered", "National animal of India"],
+      "difficulty": 2
+    },
+    {
+      "word": "television",
+      "category": "technology",
+      "hints": ["Flat screen", "Shows programs", "Remote control", "News and shows"],
+      "difficulty": 1
+    },
+    {
+      "word": "headphones",
+      "category": "technology",
+      "hints": ["Worn on ears", "Listen to music", "Noise-cancelling", "Wireless or wired"],
+      "difficulty": 1
+    },
+    {
+      "word": "submarine",
+      "category": "transport",
+      "hints": ["Underwater vessel", "Military use", "Has periscope", "Dives deep"],
+      "difficulty": 3
+    },
+    {
+      "word": "motorcycle",
+      "category": "transport",
+      "hints": ["Two wheels", "Engine-powered", "Rider wears helmet", "Loud engine"],
+      "difficulty": 2
+    },
+    {
+      "word": "museum",
+      "category": "place",
+      "hints": ["Shows artifacts", "Educational", "Historical items", "Quiet atmosphere"],
+      "difficulty": 2
+    },
+    {
+      "word": "restaurant",
+      "category": "place",
+      "hints": ["Serves food", "Has menu", "Waiters work here", "People dine here"],
+      "difficulty": 1
+    },
+    {
+      "word": "violin",
+      "category": "music",
+      "hints": ["Four strings", "Played with bow", "Orchestra instrument", "High-pitched"],
+      "difficulty": 3
+    },
+    {
+      "word": "drum",
+      "category": "music",
+      "hints": ["Percussion instrument", "Played with sticks", "Bass and snare types", "Keeps rhythm"],
+      "difficulty": 2
+    },
+    {
+      "word": "earthquake",
+      "category": "nature",
+      "hints": ["Ground shakes", "Richter scale", "Tectonic plates", "Can cause damage"],
+      "difficulty": 3
+    },
+    {
+      "word": "hurricane",
+      "category": "nature",
+      "hints": ["Strong winds", "Ocean storm", "Category 1-5", "Evacuations needed"],
+      "difficulty": 3
+    },
+    {
+      "word": "firefighter",
+      "category": "profession",
+      "hints": ["Puts out fires", "Brave job", "Uses hose", "Helmet and uniform"],
+      "difficulty": 2
+    },
+    {
+      "word": "astronaut",
+      "category": "profession",
+      "hints": ["Goes to space", "Wears spacesuit", "Works on ISS", "Floats in zero-g"],
+      "difficulty": 3
+    },
+    {
+      "word": "spaghetti",
+      "category": "food",
+      "hints": ["Italian pasta", "Long noodles", "Tomato sauce", "Eaten with fork"],
+      "difficulty": 1
+    },
+    {
+      "word": "sushi",
+      "category": "food",
+      "hints": ["Japanese dish", "Contains rice", "Raw fish", "Chopsticks used"],
+      "difficulty": 2
+    },
+    {
+      "word": "tennis",
+      "category": "sport",
+      "hints": ["Racket sport", "Wimbledon", "Yellow ball", "Singles/doubles"],
+      "difficulty": 2
+    },
+    {
+      "word": "swimming",
+      "category": "sport",
+      "hints": ["In water", "Olympic sport", "Different strokes", "Need goggles"],
+      "difficulty": 2
+    },
+    {
+      "word": "kangaroo",
+      "category": "animal",
+      "hints": ["Australian", "Has pouch", "Hops", "Carries joey"],
+      "difficulty": 2
+    },
+    {
+      "word": "penguin",
+      "category": "animal",
+      "hints": ["Antarctic", "Black and white", "Can't fly", "Waddles"],
+      "difficulty": 2
+    },
+    {
+      "word": "camera",
+      "category": "technology",
+      "hints": ["Takes photos", "Has lens", "DSLR types", "Press shutter"],
+      "difficulty": 2
+    },
+    {
+      "word": "robot",
+      "category": "technology",
+      "hints": ["Artificial intelligence", "Can move", "Programmed", "Future tech"],
+      "difficulty": 2
+    },
+    {
+      "word": "helicopter",
+      "category": "transport",
+      "hints": ["Rotating blades", "Hovers in air", "Medical evacuation", "No runway needed"],
+      "difficulty": 3
+    },
+    {
+      "word": "tram",
+      "category": "transport",
+      "hints": ["City transport", "Runs on tracks", "Electric power", "Shared vehicle"],
+      "difficulty": 2
+    },
+    {
+      "word": "zoo",
+      "category": "place",
+      "hints": ["Has animals", "Family outing", "Different habitats", "Zookeepers work here"],
+      "difficulty": 1
+    },
+    {
+      "word": "beach",
+      "category": "place",
+      "hints": ["Sandy shore", "Ocean waves", "Sunbathing", "Palm trees"],
+      "difficulty": 1
+    },
+    {
+      "word": "saxophone",
+      "category": "music",
+      "hints": ["Brass instrument", "Jazz music", "Reed mouthpiece", "Curved shape"],
+      "difficulty": 3
+    },
+    {
+      "word": "flute",
+      "category": "music",
+      "hints": ["Woodwind instrument", "High notes", "Blow across hole", "Orchestra member"],
+      "difficulty": 3
+    },
+    {
+      "word": "avalanche",
+      "category": "nature",
+      "hints": ["Snow disaster", "Mountain danger", "Fast-moving", "Buried victims"],
+      "difficulty": 3
+    },
+    {
+      "word": "rainbow",
+      "category": "nature",
+      "hints": ["Seven colors", "After rain", "Arc shape", "ROYGBIV"],
+      "difficulty": 1
+    },
+    {
+      "word": "chef",
+      "category": "profession",
+      "hints": ["Cooks food", "Works in kitchen", "White uniform", "Creates recipes"],
+      "difficulty": 1
+    },
+    {
+      "word": "pilot",
+      "category": "profession",
+      "hints": ["Flies planes", "Captain's chair", "Uses controls", "Needs license"],
+      "difficulty": 2
+    },
+    {
+      "word": "cupcake",
+      "category": "food",
+      "hints": ["Small cake", "Frosting on top", "Baked good", "Party treat"],
+      "difficulty": 1
+    },
+    {
+      "word": "salad",
+      "category": "food",
+      "hints": ["Healthy dish", "Leafy greens", "Vegetables", "Salad dressing"],
+      "difficulty": 1
+    },
+    {
+      "word": "golf",
+      "category": "sport",
+      "hints": ["Played on course", "Uses clubs", "Small ball", "18 holes"],
+      "difficulty": 2
+    },
+    {
+      "word": "boxing",
+      "category": "sport",
+      "hints": ["Fighting sport", "Gloves worn", "Ring canvas", "Knockout possible"],
+      "difficulty": 2
+    }
+  ]
+}
