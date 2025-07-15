@@ -16,8 +16,7 @@ A Python-based word guessing game with GUI, sound effects, and adaptive hints us
 
 pip install numpy scikit-learn pygame
 How to Run
-1. Clone the repository
-2. Install dependencies:
+1. Install dependencies:
  ```bash  pip install -r requirements.txt
 3.Run the game:
 python word_guessing_game.py
